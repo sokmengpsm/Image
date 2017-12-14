@@ -1,0 +1,10 @@
+<html>
+	<head>
+		<title>Test</title>
+	</head>
+	
+	<body bgcolor="red">
+	<h1>pizza is good.</h1>
+	</body>
+</html>
+
